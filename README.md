@@ -10,7 +10,7 @@ These projects showcase advanced test automation, data logging, and integration 
 ### 🧩 Functional Test System  
 Automated test sequence demonstrating power-up, functional verification, and data logging using TestStand and LabVIEW.
 
-[![Functional Test Thumbnail](https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_functional.jpg)](https://github.com/TestStandProjects/TestStand-Projects/raw/main/bandicam%202025-10-03%2011-43-52-826.mp4)
+[![Functional Test Thumbnail](https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_functional.jpg)](https://github.com/TestStandProjects/TestStand-Projects/blob/main/Videos/bandicam%202025-10-03%2011-43-52-826.mp4)
 
 <video src="https://github.com/TestStandProjects/TestStand-Projects/raw/main/bandicam%202025-10-03%2011-43-52-826.mp4" controls width="700" poster="https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_functional.jpg"></video>
 
