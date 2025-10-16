@@ -1,7 +1,7 @@
 # 🧪 TestStand Projects by Budi Setiawan
 
-Welcome to the **TestStand Projects** repository — a complete collection of **Automated Test System (ATS)** developments built using **NI TestStand**, **LabVIEW**, **Python**, and **C#**.  
-These projects showcase advanced test automation, data logging, and integration techniques for both **R&D** and **production validation** environments.
+Welcome to the **TestStand Projects** repository — a complete collection of **Automated Test System (ATS)** projects developed using **NI TestStand**, **LabVIEW**, **Python**, and **C#**.  
+These projects demonstrate advanced test automation, data logging, and integration workflows designed for **production validation**, **R&D**, and **manufacturing test environments**.
 
 ---
 
@@ -10,46 +10,38 @@ These projects showcase advanced test automation, data logging, and integration 
 ### 🧩 Functional Test System  
 Automated test sequence demonstrating power-up, functional verification, and data logging using TestStand and LabVIEW.
 
-[![Functional Test Thumbnail](https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_functional.jpg)](https://github.com/TestStandProjects/TestStand-Projects/blob/main/Videos/bandicam%202025-10-03%2011-43-52-826.mp4)
-
-<video src="https://github.com/TestStandProjects/TestStand-Projects/raw/main/bandicam%202025-10-03%2011-43-52-826.mp4" controls width="700" poster="https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_functional.jpg"></video>
+[![Functional Test System](https://img.youtube.com/vi/ABW_3dtUwHk/maxresdefault.jpg)](https://www.youtube.com/watch?v=ABW_3dtUwHk)
 
 ---
 
 ### ⚙️ Parallel Test and Sequence Flow  
 Demonstration of **parallel execution** and **multi-DUT testing** using TestStand’s built-in parallel model.
 
-[![Parallel Test Thumbnail](https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_parallel.jpg)](https://github.com/TestStandProjects/TestStand-Projects/raw/main/bandicam%202025-10-03%2018-06-48-360.mp4)
-
-<video src="https://github.com/TestStandProjects/TestStand-Projects/raw/main/bandicam%202025-10-03%2018-06-48-360.mp4" controls width="700" poster="https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_parallel.jpg"></video>
+[![Parallel Test and Sequence Flow](https://img.youtube.com/vi/nh5nzUq72xY/maxresdefault.jpg)](https://www.youtube.com/watch?v=nh5nzUq72xY)
 
 ---
 
 ### 🐍 TestStand + Python Integration  
-Running **Python scripts** directly from TestStand sequences for data analysis, AI integration, and automation workflows.
+Demonstrates how TestStand sequences can execute **Python scripts** directly for automation, AI, or data analysis tasks.
 
-[![Python Integration Thumbnail](https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_python.jpg)](https://github.com/TestStandProjects/TestStand-Projects/raw/main/bandicam%202025-10-07%2019-33-02-064(TT%20Python).mp4)
-
-<video src="https://github.com/TestStandProjects/TestStand-Projects/raw/main/bandicam%202025-10-07%2019-33-02-064(TT%20Python).mp4" controls width="700" poster="https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_python.jpg"></video>
+[![TestStand Python Integration](https://img.youtube.com/vi/bjXKd9JqzSM/maxresdefault.jpg)](https://www.youtube.com/watch?v=bjXKd9JqzSM)
 
 ---
 
 ### 💻 TestStand + C# Adapter Integration  
-Integration of **C# code modules** for hardware control, UI handling, and advanced data communication.
+Example of **C# adapter integration** for controlling hardware, communication interfaces, and custom user interfaces.
 
-[![C# Integration Thumbnail](https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_csharp.jpg)](https://github.com/TestStandProjects/TestStand-Projects/raw/main/bandicam%202025-10-07%2019-34-39-699(TT%20C%23).mp4)
-
-<video src="https://github.com/TestStandProjects/TestStand-Projects/raw/main/bandicam%202025-10-07%2019-34-39-699(TT%20C%23).mp4" controls width="700" poster="https://raw.githubusercontent.com/TestStandProjects/TestStand-Projects/main/thumbnail_csharp.jpg"></video>
+[![TestStand C# Integration](https://img.youtube.com/vi/ozD7wB_v4lA/maxresdefault.jpg)](https://www.youtube.com/watch?v=ozD7wB_v4lA)
 
 ---
 
 ## 🔧 Key Features
 
-- Modular **TestStand Sequences** with structured step groups  
-- Integration with **LabVIEW**, **Python**, and **C# adapters**  
-- **Database Logging** (SQL/MySQL) and automated **report generation**  
-- **Parallel Test Execution** for multi-DUT systems  
-- Real-world **production test architecture** and sequence control  
+- Modular **TestStand Sequences** with structured test steps  
+- Seamless integration with **LabVIEW**, **Python**, and **C# adapters**  
+- Custom **Database Logging** and **Automated Report Generation** (HTML/XML/PDF)  
+- **Parallel Testing** for multiple DUTs  
+- Configurable **production-ready frameworks**  
 
 ---
 
